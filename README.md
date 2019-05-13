@@ -2,10 +2,10 @@
 This shapefile was obtained from the North Carolina General Assembly’s website and processed by members of the Metric Geometry and Gerrymandering Group (MGGG). 
 
 ## Sources
-North Carolina election data and shapefiles come from the North Carolina General Assembly’s 2016 Redistricting Reference Data (available here: https://www.ncleg.gov/RnR/Redistricting/BaseData2016). Demographic data come from the National Historical Geographic Information System (NHGIS) and are available here (https://www.nhgis.org).
+North Carolina election data and shapefiles come from the [North Carolina General Assembly’s 2016 Redistricting Reference Data](https://www.ncleg.gov/RnR/Redistricting/BaseData2016). Demographic data come from the [National Historical Geographic Information System (NHGIS)](https://www.nhgis.org).
 
 ## Processing
-Demographic data was aggregated from the census block level to VTDs using the General Assembly’s Block Level Key. Roundoff (available in https://github.com/gerrymandr/Preprocessing) was used to assign districts from the 2011 enacted plan, 2016 enacted plan, and the judge’s plan to VTDs.
+Demographic data was aggregated from the census block level to VTDs using the General Assembly’s Block Level Key. [Roundoff](https://github.com/gerrymandr/Preprocessing) was used to assign districts from the 2011 enacted plan, 2016 enacted plan, and the judge’s plan to VTDs.
 
 ## Metadata
 * `ALAND10`: Area of VTD land in square meters
