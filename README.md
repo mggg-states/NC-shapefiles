@@ -36,8 +36,8 @@ Demographic data was aggregated from the census block level to VTDs using the Ge
 * `EL12G_GV_W`: Number of votes for Donald Kreamer as 2012 gubernatorial candidate
 * `EL12G_GV_1`: Number of votes for 2012 write-in gubernatorial candidates
 * `EL12G_GV_T`: Total number of votes for 2012 gubernatorial candidates
-* `EL14G_USS_`: Number of votes for 2014 Democratic US Senate candidate
-* `EL14G_US_1`: Number of votes for 2014 Republican US Senate candidate
+* `EL14G_USS_`: Number of votes for 2014 Republican US Senate candidate
+* `EL14G_US_1`: Number of votes for 2014 Democratic US Senate candidate
 * `EL14G_US_2`: Number of votes for 2014 Libertarian US Senate candidate
 * `EL14G_US_3`: Number of votes for 2014 write-in US Senate candidates
 * `EL14G_US_4`: Total number of votes for 2014 US Senate candidates
