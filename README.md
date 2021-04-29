@@ -92,7 +92,12 @@ Demographic data was aggregated from the census block level to VTDs using the Ge
 * `NHPIVAP`: Native Hawaiian and Pacific Islander, non-hispanic, voting age population
 * `OTHERVAP`: Other race, non-hispanic, voting age population
 * `2MOREVAP`: Two or more races, non-hispanic, voting age population
+* `CD`: Congressional districts (2019-present)
+* `HDIST`: State House district (2019-present)
+* `SEND`: State Senate district (2019-present)
 
+## Projection
+This shapefile uses a Lambert Conformal Conic projection centered on North Carolina (EPSG: 6543).
 
 ## Rating
 We give this shapefile an A rating. All data was obtained from the state government and was processed by MGGG staff.
